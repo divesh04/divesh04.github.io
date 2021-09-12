@@ -28,7 +28,7 @@ twitter_username: DiveshSoni3
 github_username:  divesh04
 
 # Build settings
-theme: minima
+theme: modernist
 plugins:
   - jekyll-feed
 
