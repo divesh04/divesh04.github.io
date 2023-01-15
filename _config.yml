@@ -2,7 +2,7 @@
 title: DIVESH SONI
 email: dsoni@caltech.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Divesh Soni is a second year graduate student at California Institute of Technology. He has around 10 years of experience in the aerospace industry/academia. 
+  Divesh Soni is a second year graduate student at California Institute of Technology. He has 9+ years of experience in the aerospace industry/academia. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 linkedin_username: jekyllrb
