@@ -2,7 +2,7 @@
 title: DIVESH SONI
 email: dsoni@caltech.edu
 description: > # this means to ignore newlines until "baseurl:"
-  This website is inspired from a template by  [svmiller.github.io](http://svmiller.github.io)
+  This website is inspired from a template by 
    <a href="http://svmiller.github.io">Steven V. Miller</a>
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site

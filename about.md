@@ -6,5 +6,6 @@ permalink: /about/
 
 {% include image.html url="/images/divesh.png" caption="" width=300 align="right" %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc blandit mattis nulla eu cursus. Fusce finibus, orci sit amet tincidunt fermentum, risus ante pharetra nisi, eget tempus tellus tellus ut est. Nunc tempus cursus arcu mattis ultricies. Cras volutpat purus et lectus facilisis tempor. Suspendisse at lorem feugiat, feugiat massa vel, scelerisque dolor. Proin justo nisl, mattis eu sapien in, efficitur fringilla nulla. Phasellus placerat, lacus in venenatis tristique, risus dolor eleifend felis, vitae finibus augue nibh ut libero. Morbi sit amet tincidunt lorem.
+Hello ! I am Divesh Soni from India. My early childhood was spent around lovely palaces and lakes in Rajasthan. I was fascinated by everything in the sky, from stars and airplanes to sparrows and dragonflies. I used to experiment on paper airplanes to get them to land the farthest. I dreamt of flying in the blue skies with jetpacks and feeling the wind on my face. 
+
 
